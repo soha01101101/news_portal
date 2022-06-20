@@ -1,0 +1,27 @@
+body{
+	background: #eee;
+}
+.header {
+  width: 30%;
+  margin: 0px auto ;
+  color: white;
+  background: #5F9EA0;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  padding: 20px;
+}
+#frm{
+	border: solid gray 1px;
+	width: 20%;
+	border-radius: 5px;
+	margin: 70px auto;
+	background: white;
+	padding: 50px;
+}
+#btn{
+	
+	
+	padding: 4px;
+	margin: 45px auto;
+}
